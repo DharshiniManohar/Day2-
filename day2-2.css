@@ -1,0 +1,17 @@
+body{
+    background-image:url(https://images.pexels.com/photos/1023952/pexels-photo-1023952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-position: center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height:15cm;
+    
+}
+fieldset{
+    background-color: rgb(216, 227, 237,0.3);
+    
+}
+label{
+    font-weight: bolder;
+}
